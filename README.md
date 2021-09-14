@@ -1,3 +1,3 @@
 # NearestTargetAlgorithm
-Some of my old but gold algorithm.
+An old code of mine.
 Codes are old too.
